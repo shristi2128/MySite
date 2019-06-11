@@ -1,0 +1,165 @@
+
+body{
+  margin: 0;
+  font-family: 'Kreon', serif;
+
+}
+.btn
+{
+  text-align: center;
+  margin-left: 550px;
+  font-size: 1.56rem;
+  color: #5c8d89;
+}
+.cdown
+{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.codingL
+{
+
+  width: 200px;
+  height: 200px;
+  filter: drop-shadow(5px 5px 5px #a9a9a9);
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+.cup
+{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+
+.first{
+  background-color: #eaf5ff;
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+
+}
+.firstH{
+
+  margin: 0 auto;
+  font-family: 'Parisienne', cursive;
+  font-size: 5rem;
+
+}
+.fourth
+{
+  background-color: white;
+  padding: 50px;
+}
+.fifth
+{
+  background-color: #eaf5ff;
+  padding: 50px;
+  padding-bottom: 10px;
+
+}
+.footer-link
+{
+  margin-left: 50px;
+  color: #5c8d89;
+}
+h1
+{
+  font-family: 'PT Serif Caption', serif;
+  text-align: center;
+  color: #55968f;
+
+}
+h2
+{
+  color: #55968f;
+  font-family: 'Kreon', serif;
+
+}
+.hed
+{
+
+  background-color: #eaf5ff;
+  height: 40%;
+  width: 150px;
+
+}
+hr{
+  width: 5%;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #dedede;
+}
+.hire
+{
+  margin-left: 900px;
+  color: #5c8d89;
+}
+.learn
+{
+  margin-left: 20px;
+  font-size: 1.875rem;
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.mi {
+
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  filter: drop-shadow(5px 5px 5px #a9a9a9);
+}
+
+p
+{
+  font-family: 'Kreon', serif;
+  width: 80%;
+  font-size: 1.25rem;
+
+}
+.para
+{
+  margin-left: 320px;
+  padding-top: 50px;
+  width: 50%;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.para1
+{
+  margin-left: 200px;
+  padding-top: 50px;
+  width: 70%;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.sec
+{
+
+  background-color: white;
+  padding: 50px;
+  margin-top: 50px;
+  text-align: center;
+
+}
+.third
+{
+
+  background-color: white;
+  padding: 50px;
+
+}
+.uv
+{
+ margin-bottom: 0;
+ padding-top: 10px;
+ text-align: center;
+ margin-left: 140px;
+ color: #5c8d89;
+}
